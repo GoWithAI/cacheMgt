@@ -1,1 +1,4 @@
  1. read-through cache
+Least-recently-used (LRU)
+Least Frequently Used (LFU)
+First in First Out (FIFO)
